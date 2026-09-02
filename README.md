@@ -1,5 +1,5 @@
 ## Hi there 👋 
-## My name is Linnea and I'm a Junior .NET Devloper / Programmer😄
+## My name is Linnea and I'm a Junior .NET Developer / Programmer😄
 ## I'm currently looking for new oppurtunities as a .NET Devloper 👾
 
 - 👩‍💻 I’ve studied .NET Devlopment at Campus Nyköping 2024-2026
